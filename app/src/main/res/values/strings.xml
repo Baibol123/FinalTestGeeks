@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalTestGeeks</string>
+    <string name="note_example">jhskdjfhjkhsdkjfhksjdhfkjhakjsdhfkjahsdkfjhakjsdhfkjasdhfkjahsdkjfhaksdhfjkhsdkjfhskjdf </string>
+    <string name="note_delete">Вы уверены что хотите удалить эту заметку? </string>
+    <string name="note_personal">Личные </string>
+    <string name="note_workers">Рабочие </string>
+    <string name="note_educational">Учебные </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
